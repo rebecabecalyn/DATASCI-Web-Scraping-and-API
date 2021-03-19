@@ -17,7 +17,7 @@ Save the datasets in JSON files.
 ## FILES 
 1. Bulbapedia:
    - Pokemon.ipynb
-   - pokemon.json
+   - pokemon.json (Inside Dataset.zip)
 2. News Site:
    - NewsSite - API.ipynb
-   - news.json
+   - news.json (Inside Dataset.zip)
